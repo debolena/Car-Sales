@@ -32,7 +32,7 @@ SUVs had the highest median price.
 
 Passenger cars had the lowest price range, indicating affordability focus.
 
-⚙ Horsepower vs Fuel Efficiency
+Horsepower vs Fuel Efficiency
 A negative correlation was observed: higher horsepower typically led to lower fuel efficiency.
 
 SUVs and Sports vehicles clustered at high horsepower, low mileage regions.
